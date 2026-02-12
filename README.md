@@ -102,8 +102,8 @@ This will:
 Create a `.env` file in the root:
 
 ```env
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY= "<your-publishable-key>"
-CLERK_SECRET_KEY= "<your-secret-key>"
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY="<your-publishable-key>"
+CLERK_SECRET_KEY="<your-secret-key>"
 ```
 
 ---
@@ -156,9 +156,9 @@ Copy the Signing Secret from Clerk and update `.env`:
 DATABASE_URL= "<your-database-url>"
 
 # Clerk
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY= "<your-publishable-key>"
-CLERK_SECRET_KEY= "<your-secret-key>"
-CLERK_WEBHOOK_SIGNING_SECRET= "<your-signing-secret>"
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY="<your-publishable-key>"
+CLERK_SECRET_KEY="<your-secret-key>"
+CLERK_WEBHOOK_SIGNING_SECRET="<your-signing-secret>"
 ```
 
 ---
