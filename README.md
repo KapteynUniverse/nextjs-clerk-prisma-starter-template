@@ -4,7 +4,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?logo=prisma)
 ![Clerk](https://img.shields.io/badge/Auth-Clerk-6C47FF)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 A minimal full-stack starter template built with:
 
