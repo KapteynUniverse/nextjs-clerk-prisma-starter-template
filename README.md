@@ -9,7 +9,6 @@ A minimal full-stack starter template built with:
 
 - 🔐 Clerk Authentication (Sign In / Sign Up)
 - 🗄 Prisma ORM
-- 🐘 Prisma Postgres
 - 🌐 ngrok Webhook Integration
 - ⚡ Next.js App Router
 
